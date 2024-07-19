@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 郭奕成 (Jerry Kuo)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yi-Cheng Kuo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yi-Cheng
+last_name: Kuo
 
 # Status emoji
 status:
@@ -17,35 +17,41 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Senior Software Engineer / Android Engineer / Mobile App Developer / Data Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Wistron
+    url: https://www.wistron.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:narikuo@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/narikuo
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/yi-cheng-kuo/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/jerrykuotw/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Artificial Intelligence - Software Engineering Technology
+    institution: Centennial College
+    date_start: 2022-09-01
+    date_end: 2024-04-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 4.3/4.5
+
+      Relevant Courses included:
+      AI frameworks, Machine Learning, Deep learning, Data visualization, Big Data fundamentals, 
+      NLP (Natural Language Processing), Image Recognition, Recommender Systems, 
+      AI Ethics and Data Governance. Modern Software Development and Design. 
+      Oracle Database, Software Testing and Quality Assurance
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -60,40 +66,38 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Engineering - Department of Civil Engineering
+    institution: Chung Yuan Christian University
+    
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Technical Supervisor
+    company_name: Wistron
+    company_url: 'https://www.wistron.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-08-01
+    date_end: 2022-02-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Contributed to developing Keeogo, a rehabilitation program record app for Android devices in the medical and healthcare industry.
+      - Collaborated with cross-functional teams in the entire software development life cycle, including requirements gathering, design, implementation, and deployment.
+      - Developed new features for the application using Java, Kotlin.
+      - Java, Koltin, RESTful API, Retrofit, MQTT, OpenVidu, MPAndroidChart, Scrum
+  - position: Senior Software Engineer
+    company_name: Wistron ITS (WITS)
+    company_url: 'https://www.wits.com/'
+    company_logo: ''
+    date_start: 2018-11-01
+    date_end: 2021-07-31
+    summary: |
+      - Developed various Android applications, including Smart Classroom (Remote Controller, e-Bulletin Board, e-Schoolbag, Multi-media Teaching Box) and WiParents APP for Teacher-Parent communication (Android and iOS).
+      - Participated in the full software development life cycle, including requirements gathering, design, implementation, and deployment.
+      - Maintained and updated the application on Google Play.
+      - Provided project development and technical support.
+      - Worked at the Division of Technology Service Business
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
