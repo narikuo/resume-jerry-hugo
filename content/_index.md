@@ -17,11 +17,11 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: uploads/resume.pdf
+        url: uploads/Resume_Yi-Cheng_Kuo_2024.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: pexels-nextvoyage-457937.jpg #kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
