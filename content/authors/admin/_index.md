@@ -108,7 +108,7 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: Android Studio
         description: ''
         percent: 100
         icon: devicon/rstudio
@@ -116,13 +116,17 @@ skills:
         description: ''
         percent: 40
         icon: devicon/pytorch
+      - name: Kotlin
+        description: ''
+        percent: 90
+        icon: devicon/kotlin
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -134,12 +138,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Taiwanese
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -173,4 +177,16 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am a software engineer with over 8 years of experience in software engineering and 4+ years of experience in Java/Kotlin and the Android platform. During my career, I have developed and maintained commercial Android apps and have expertise in artificial intelligence implementation. I'm experienced in multiple areas of the Android SDK and passionate about new features, including Jetpack Compose, and relevant AI technologies.
+
+SUMMARY
+- Software engineering student specializing in Artificial Intelligence with Python, Jupyter Notebook, data analytics and machine learning knowledge.
+- Experience in Mobile app development using Kotlin, Java, and Swift for the healthcare, education and IoT industries.
+- Hands-on experience in relational and non-relational databases (e.g. SQL Server and MongoDB).
+- Experience with working on commercial software engineering projects in Business Process Management and web applications.
+- Experience working on UX/UI design for mobile apps and websites.
+- Freelancing on web development using the WordPress platform.
+
+Skilled in Python, Android, Kotlin, Java, JavaScript, Node.JS, jQuery, HTML, CSS, and proficient in WordPress development and maintenance. 
+
+A proactive team player with a passion for delivering high-quality solutions.
